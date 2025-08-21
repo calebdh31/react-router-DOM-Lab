@@ -6,9 +6,9 @@ function NavBar() {
        <nav>
       <h2></h2>
       <ul>
-        <li><link to="/">Home</link></li>
-        <li><link to="/mailboxes">Mailboxes</link></li>
-        <li><link to="/new-mailbox">New Mailbox</link></li>
+        <li><Link to="/">Home</Link></li>
+        <li><Link to="/mailboxes">Mailboxes</Link></li>
+        <li><Link to="/new-mailbox">New Mailbox</Link></li>
       </ul>
     </nav>
   )
